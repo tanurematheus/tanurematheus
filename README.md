@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-Hi, I'm Matheus Tanure. Full stack developer and digital manufacturing enthusiast. Currently studying information systems at the State University of Bahia
+Hi, I'm Matheus Tanure. Full stack developer and digital manufacturing enthusiast. Currently studying information systems at the University of State of Bahia
 
 <div align="center">
 <a href="https://www.linkedin.com/in/matheus-tanure/" target="_blank">
